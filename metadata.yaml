@@ -1,0 +1,29 @@
+_repo: The-Western-United-StatesA-Geographical-Reader_22302
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fairbanks, Harold W. (Harold Wellman)
+    alias: Fairbanks, Harold Wellman
+    birthdate: 1860
+    gutenberg_agent_id: '32344'
+    url: http://www.gutenberg.org/2009/agents/32344
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2007-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22302'
+  lccn: '04023727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physical geography -- West (U.S.)'
+- !lcc 'F590.3'
+- !lcsh 'West (U.S)'
+title: 'The Western United States: A Geographical Reader'
+url: http://www.gutenberg.org/ebooks/22302
