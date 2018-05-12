@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32344'
     url: http://www.gutenberg.org/2009/agents/32344
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22302#The-Western-United-StatesA-Geographical-Reader
 gutenberg_bookshelf: United States
 gutenberg_issued: '2007-08-13'
 gutenberg_type: Text
